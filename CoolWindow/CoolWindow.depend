@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1378282085 source:d:\codeblocks\blocks\codeblocks\projects\coolwindow\coolwindow.cpp
+	<gtk/gtk.h>
+
+1378781136 source:d:\codeblocks\blocks\codeblocks\projects\coolwindow\main.cpp
+	"main.h"
+	"Tmessage.h"
+	<ctime>
+	<cstring>
+
+1378795111 d:\codeblocks\blocks\codeblocks\projects\coolwindow\main.h
+	<gtk/gtk.h>
+	<string.h>
+	<vector>
+	"textCodeConvert.h"
+	"drawBubble.h"
+	"Send.h"
+	"Tmemory.h"
+	"Tmessage.h"
+	"Tsocket.h"
+
+1378363788 d:\codeblocks\blocks\codeblocks\projects\coolwindow\textcodeconvert.h
+	<gtk/gtk.h>
+	<locale.h>
+	<windows.h>
+
+1378363117 source:d:\codeblocks\blocks\codeblocks\projects\coolwindow\textcodeconvert.cpp
+	"textCodeConvert.h"
+
+1378738221 d:\codeblocks\blocks\codeblocks\projects\coolwindow\drawbubble.h
+
+1378710696 d:\codeblocks\blocks\codeblocks\projects\coolwindow\disablewindows.h
+
+1378794642 d:\codeblocks\blocks\codeblocks\projects\coolwindow\tmessage.h
+	<ctime>
+
+1378794637 source:d:\codeblocks\blocks\codeblocks\projects\coolwindow\tmessage.cpp
+	"Tmessage.h"
+	<stdio.h>
+	<cstring>
+
+1378794654 source:d:\codeblocks\blocks\codeblocks\projects\coolwindow\send.cpp
+	"Send.h"
+	<iostream>
+	<cstdio>
+	<ctime>
+	"Tsocket.h"
+	"Tmemory.h"
+
+1378794648 d:\codeblocks\blocks\codeblocks\projects\coolwindow\send.h
+	"Tmessage.h"
+
+1378794627 d:\codeblocks\blocks\codeblocks\projects\coolwindow\tsocket.h
+	<windows.h>
+	"Tmessage.h"
+	"Iphlpapi.h"
+	<Winsock2.h>
+
+1378794645 d:\codeblocks\blocks\codeblocks\projects\coolwindow\tmemory.h
+	"Tmessage.h"
+	<vector>
+
+1378794651 source:d:\codeblocks\blocks\codeblocks\projects\coolwindow\tmemory.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+	"Tmemory.h"
+
+1378794631 source:d:\codeblocks\blocks\codeblocks\projects\coolwindow\tsocket.cpp
+	<stdio.h>
+	<string.h>
+	<gtk/gtk.h>
+	"Tsocket.h"
+	"Tmemory.h"
+
+1378878689 source:d:\project\modified\coolwindow\main.cpp
+	"main.h"
+	"Tmessage.h"
+	<ctime>
+	<cstring>
+
+1378870095 d:\project\modified\coolwindow\main.h
+	<gtk/gtk.h>
+	<string.h>
+	<vector>
+	<ctype.h>
+	"textCodeConvert.h"
+	"drawBubble.h"
+	"Send.h"
+	"Tmemory.h"
+	"Tmessage.h"
+	"Tsocket.h"
+
+1378795697 d:\project\modified\coolwindow\textcodeconvert.h
+	<gtk/gtk.h>
+	<locale.h>
+	<windows.h>
+
+1378817151 d:\project\modified\coolwindow\drawbubble.h
+
+1378801356 d:\project\modified\coolwindow\send.h
+	"Tmessage.h"
+
+1378873984 d:\project\modified\coolwindow\tmessage.h
+	<ctime>
+
+1378819848 d:\project\modified\coolwindow\tmemory.h
+	"Tmessage.h"
+	<vector>
+
+1378795697 d:\project\modified\coolwindow\tsocket.h
+	<windows.h>
+	"Tmessage.h"
+	"Iphlpapi.h"
+	<Winsock2.h>
+
+1378795697 source:d:\project\modified\coolwindow\textcodeconvert.cpp
+	"textCodeConvert.h"
+
+1378873965 source:d:\project\modified\coolwindow\tmessage.cpp
+	"Tmessage.h"
+	<stdio.h>
+	<cstring>
+
+1378869283 source:d:\project\modified\coolwindow\send.cpp
+	"Send.h"
+	<iostream>
+	<cstdio>
+	<ctime>
+	"Tsocket.h"
+	"Tmemory.h"
+	<gtk/gtk.h>
+
+1378833930 source:d:\project\modified\coolwindow\tmemory.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+	"Tmemory.h"
+
+1378834795 source:d:\project\modified\coolwindow\tsocket.cpp
+	<stdio.h>
+	<string.h>
+	<gtk/gtk.h>
+	"Tsocket.h"
+	"Tmemory.h"
+
